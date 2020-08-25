@@ -1,0 +1,57 @@
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\bin\Debug\MANAGER.exe.config
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.STUDENGER.resources
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.Resources.resources
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.vbproj.GenerateResource.Cache
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.xml
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\bin\Debug\MANAGER.exe
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\bin\Debug\MANAGER.pdb
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\bin\Debug\MANAGER.xml
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.exe
+c:\users\anthonycee\documents\visual studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.pdb
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\Guna.UI.dll
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\Guna.UI.pdb
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.pdb
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.STAFFOGER.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.PAYROLLGER.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.ACCOUNT_MANAGER.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.dll
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.xml
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.RegisterUsers.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.Login.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.Company_Name.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.MYsTore.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.vbprojAssemblyReference.cache
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.vbproj.CopyComplete
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.stare.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Debug\MANAGER.TABLE_ANALYSIS.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.exe.config
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.exe
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.pdb
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.xml
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\Guna.UI.pdb
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.pdb
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.xml
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.vbprojAssemblyReference.cache
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.ACCOUNT_MANAGER.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.Company_Name.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.Login.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.Resources.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.MYsTore.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.PAYROLLGER.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.RegisterUsers.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.STAFFOGER.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.stare.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.STUDENGER.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.TABLE_ANALYSIS.resources
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.vbproj.GenerateResource.cache
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.vbproj.CopyComplete
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.exe
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.xml
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.pdb
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.exe.manifest
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\bin\Debug\MANAGER.application
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.exe.manifest
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.application
+C:\Users\AnthonyCee\Desktop\MANAGER\MANAGER\obj\Debug\MANAGER.Remove_User.resources

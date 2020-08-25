@@ -1,0 +1,13 @@
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\MANAGER.exe.config
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\MANAGER.exe
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\MANAGER.pdb
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\MANAGER.xml
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\Guna.UI.dll
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\MySql.Data.dll
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\bin\Release\Guna.UI.pdb
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.Resources.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.STUDENGER.resources
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.vbproj.GenerateResource.Cache
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.exe
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.xml
+C:\Users\AnthonyCee\Documents\Visual Studio 2015\Projects\MANAGER\MANAGER\obj\Release\MANAGER.pdb
